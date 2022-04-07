@@ -37,10 +37,10 @@ CI_ENVIRONMENT = development
 # DATABASE
 #--------------------------------------------------------------------
 
-database.default.hostname = 103.229.73.117
-database.default.database = gammaint_db_siakad
-database.default.username = gammaint_adminSiakad
-database.default.password = C#sGk}fucX35
+database.default.hostname = db4free.net
+database.default.database = db_siakad
+database.default.username = admin_siakad
+database.default.password = kuplay123
 database.default.DBDriver = MySQLi
 database.default.DBPrefix =
 
