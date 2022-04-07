@@ -1,0 +1,6 @@
+#Database Siakad
+ gammaint_db_siakad
+
+#Akun Database Siakad Online
+ username: gammaint_adminSiakad
+ password: C#sGk}fucX35
